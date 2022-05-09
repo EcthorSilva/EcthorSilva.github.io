@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 3px;
     box-sizing: border-box;
     list-style: none;
     font-family: 'Roboto', sans-serif;
@@ -131,7 +131,7 @@ body {
 
 
 .right-section-contents {
-    padding: 2rem 2rem;
+    padding: 1rem 1rem;
 }
 
 .right-title {
